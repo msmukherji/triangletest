@@ -1,4 +1,3 @@
 language: ruby
-rvm: 
-	- 2.2.0
-script: "triangle_test.rb"
+rvm: -2.2.0
+script: "ruby triangle_test.rb"
