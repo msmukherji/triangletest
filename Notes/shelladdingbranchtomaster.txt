@@ -1,0 +1,13 @@
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Mishka-Mukherjis-MacBook-Pro:src Mishka$ git branch -d view-suggestions
+Deleted branch view-suggestions (was b25fbed).
+Mishka-Mukherjis-MacBook-Pro:src Mishka$ cd spotibetical
+Mishka-Mukherjis-MacBook-Pro:spotibetical Mishka$ git checkout -b view-suggestions
+Switched to a new branch 'view-suggestions'
+Mishka-Mukherjis-MacBook-Pro:spotibetical Mishka$ git push -u origin view-suggestions
+Total 0 (delta 0), reused 0 (delta 0)
+To git@github.com:TIY-DC-ROR-2015-Jan/spotibetical.git
+ * [new branch]      view-suggestions -> view-suggestions
+Branch view-suggestions set up to track remote branch view-suggestions from origin.
+Mishka-Mukherjis-MacBook-Pro:spotibetical Mishka$

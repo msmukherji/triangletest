@@ -1,0 +1,9 @@
+require "./httparty"
+
+base uri = https://frozen-springs-1650.herokuapp.com
+
+class FrozenSpring
+include HTTParty
+def get_submissions
+	FrozenSpring.get('/')
+end
